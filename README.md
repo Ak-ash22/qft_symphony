@@ -1,1 +1,3 @@
 # QFT-Symphony
+
+Digital Signal Processing is pivotal in numerous technological applications, from day-to-day telecommunications to detecting gravitational waves. Traditionally, we leverage various classical algorithms as techniques for digital signal processing. Since a few years, there has been a paradigm shift towards using quantum computation and quantum algorithms to find the quantum advantage over classical. This paper explores the application of one such quantum algorithm, Quantum Fourier Transform (QFT), which can be a substitute for current classical techniques in the realm of Digital Signal Processing.

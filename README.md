@@ -10,7 +10,6 @@ To run the ipynb files, you need the following dependencies installed:
   3. pydub
   4. soundfile
   5. matplotlib
-  6. numpy
 
  # Installing Dependencies
 
@@ -34,9 +33,4 @@ To run the ipynb files, you need the following dependencies installed:
 - matplotlib 3.8.2
 ```console
  pip install matplotlib
-```
-
-- numpy 1.26.2
-```console
- pip install numpy
 ```

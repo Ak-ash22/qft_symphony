@@ -13,7 +13,7 @@ To run the ipynb files, you need the following dependencies installed:
 
  # Installing Dependencies
 
- The above dependecies can be installed using pip `pip` in a console or terminal:
+ The above dependecies can be installed using `pip` in a console or terminal:
  - Qiskit latest version
  ```console
  pip install qiskit
